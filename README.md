@@ -6,10 +6,10 @@
 Hi there, I'm Magg, a translator-turned-researcher-turned-programmer, fascinated by the intricacies of data analysis and full stack development. Fluent in English, Cantonese, and Mandarin, I also learn a bit of German, Spanish, Arabic, and Japanese. When I'm not coding, you'll find me sweating it out at the climbing gym or at the crags, striving to conquer my climbing projects. If you share my passion for coding or climbing, don't hesitate to reach out!
 
 <p align="center">
-  <a href="https://github.com/magg-ting" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/magglui/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href=mailto:magg.luimt@gmail.com?subject=GitHub%20Enquiries"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/climbingidiots/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/magg-ting" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=plastic&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/magglui/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href=mailto:magg.luimt@gmail.com?subject=GitHub%20Enquiries"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/climbingidiots/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=plastic&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
