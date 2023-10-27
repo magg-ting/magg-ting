@@ -91,7 +91,6 @@ Hi there, I'm Magg, a translator-turned-researcher-turned-programmer, fascinated
   <a href="https://git.io/streak-stats">
      <img height="120px" src="https://github-readme-streak-stats.herokuapp.com?user=magg-ting&theme=react&mode=weekly" alt="GitHub Streak" />
   </a>
-   
   <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magg-ting&hide=html&hide_border=true&layout=compact&langs_count=8&theme=react" />
 </p>
 </details>
