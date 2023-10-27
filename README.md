@@ -1,4 +1,4 @@
-<img src="keepcoding.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" alt="Keep Going. Keep Coding." title="Keep Going. Keep Coding.(https://instagram.com/coding.ninjas?igshid=1q6tjorvxtttj)." />
+<img src="keepcoding.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" alt="Keep Going. Keep Coding." title="Keep Going. Keep Coding." />
 
 ![Views](https://vbr.wocr.tk/badge?page_id=magg-ting&text=Views&color=00cf00&style=for-the-badge&logo=Github&hit=false)
 
@@ -140,8 +140,8 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 </details>
 
 
-## Cool Templates/Tools Used in This Profile README
-- Profile visit count from [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝙽𝚊𝚝𝚑𝚊𝚗𝟷𝟹𝟾𝟾𝟾/𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝙱𝚊𝚍𝚐𝚎𝚁𝚎𝚕𝚘𝚊𝚍𝚎𝚍](https://github.com/Nathan13888/VisitorBadgeReloaded)
+## Templates/Tools Used in this Profile README
+- Profile visit count from [https://github.com/Nathan13888/VisitorBadgeReloaded](https://github.com/Nathan13888/VisitorBadgeReloaded)
 - Profile README templates by
 - Keep Coding gif by Coding Ninjas [https://giphy.com/gifs/coding-programming-ninjas-CcwLAV11cALh3OuEJ5](https://giphy.com/gifs/coding-programming-ninjas-CcwLAV11cALh3OuEJ5)
-- GitHub Stats
+- GitHub ReadMe Stats Repo from [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
