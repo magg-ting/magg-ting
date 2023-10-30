@@ -88,9 +88,7 @@ Hi there, I'm Magg, a translator-turned-researcher-turned-programmer, fascinated
 ## GitHub Stats
 <p align="center">
   <img height="120px" src="https://github-readme-stats.vercel.app/api?username=magg-ting&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=react&rank_icon=github&custom_title=GitHub%20Stats" alt="GitHub Stats" /> 
-  <a href="https://git.io/streak-stats">
-     <img height="120px" src="https://github-readme-streak-stats.herokuapp.com?user=magg-ting&theme=react&mode=weekly" alt="GitHub Streak" />
-  </a>
+  <img height="120px" src="https://github-readme-streak-stats.herokuapp.com?user=magg-ting&theme=react&mode=weekly" alt="GitHub Streak" />
   <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magg-ting&hide=html&hide_border=true&layout=compact&langs_count=8&theme=react" />
 </p>
 </details>
@@ -102,3 +100,4 @@ Here is a list of tools and templates I've used in this profile README:
 - Profile README templates by [Bruno Tacca](https://github.com/brunotacca/brunotacca), and [Raymond Li](https://github.com/Raymo111/Raymo111)
 - Keep Coding gif by [Coding Ninjas](https://giphy.com/gifs/coding-programming-ninjas-CcwLAV11cALh3OuEJ5)
 - GitHub README Stats Repo from [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+- GitHub README Streak Stats Repo from [https://github.com/DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
