@@ -1,6 +1,6 @@
 <img src="keepcoding.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" alt="Keep Going. Keep Coding." title="Keep Going. Keep Coding." />
 
-![Views](https://vbr.wocr.tk/badge?page_id=magg-ting&text=Views&color=00cf00&style=for-the-badge&logo=Github&hit=false)
+![Visitors](https://vbr.wocr.tk/badge?page_id=magg-ting&text=Visitors&color=00cf00&style=for-the-badge&logo=Github&hit=false)
 
 ## About Me
 Hi there, I'm Magg, a translator-turned-researcher-turned-programmer, fascinated by the intricacies of data analysis and full stack development. Fluent in English, Cantonese, and Mandarin, I also learn a bit of German, Spanish, Arabic, and Japanese. When I'm not coding, you'll find me sweating it out at the climbing gym or at the crags, striving to conquer my climbing projects. If you share my passion for coding or climbing, don't hesitate to reach out!
