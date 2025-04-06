@@ -3,7 +3,9 @@
 ![Visitors](https://vbr.nathanchung.dev/badge?page_id=magg-ting&text=Visitors&color=00cf00&style=for-the-badge&logo=Github&hit=false)
 
 ## About Me
-Hi there, I'm Magg, a translator-turned-researcher-turned-programmer, fascinated by the intricacies of data analysis and full stack development. Fluent in English, Cantonese, and Mandarin, I also learn a bit of German, Spanish, Arabic, and Japanese. When I'm not coding, you'll find me sweating it out at the climbing gym or at the crags, striving to conquer my climbing projects. If you share my passion for coding or climbing, don't hesitate to reach out!
+I have many interests: data, analytics, coding, painting, climbing, and learning.  
+Especially learning languages - both programming languages and human ones. Used to be a translator before I found my passion in data.  
+A cat person but not a cat mom (yet). 
 
 <p align="center">
   <a href="https://github.com/magg-ting" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=plastic&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
